@@ -1,0 +1,6 @@
+t101		06-10-2016 02:55:29
+	Technician togged trace on
+
+t101		06-10-2016 02:55:39
+	Technician toggled trace off
+
